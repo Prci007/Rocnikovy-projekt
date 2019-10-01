@@ -17,6 +17,6 @@
 - https://www.laskarduino.cz/arduino-4-kanalovy-motor-driver-shield-l293d/
 - https://www.laskarduino.cz/bateriovy-box-2x18650-dratove-vyvody/
 - https://www.laskarduino.cz/dupont-propojovaci-kabely-40ks-m-f-samec-samice--10cm-/
-- https://www.laskarduino.cz/kolo-s-prevodovanym-motorem/
-- https://www.laskarduino.cz/arduino-uno-r3--atmega328p--klon/
-- https://www.laskarduino.cz/arduino-ir-opticky-infra-snimac-fc-51/
+-  TT Gear Motor(4x),Wheels(4x) : https://www.laskarduino.cz/kolo-s-prevodovanym-motorem/
+- Arduino Uno : https://www.laskarduino.cz/arduino-uno-r3--atmega328p--klon/
+- Infrared Sensor : https://www.laskarduino.cz/arduino-ir-opticky-infra-snimac-fc-51/
