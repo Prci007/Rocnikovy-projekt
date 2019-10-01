@@ -19,3 +19,4 @@
 - https://www.laskarduino.cz/dupont-propojovaci-kabely-40ks-m-f-samec-samice--10cm-/
 - https://www.laskarduino.cz/kolo-s-prevodovanym-motorem/
 - https://www.laskarduino.cz/arduino-uno-r3--atmega328p--klon/
+- https://www.laskarduino.cz/arduino-ir-opticky-infra-snimac-fc-51/
